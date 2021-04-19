@@ -1,4 +1,6 @@
-### Connect Developer 박지훈
+# 방문해주셔서 감사합니다! 😄  
+
+### Connect Developer 박지훈  
 
 [현재 진행 프로젝트](https://github.com/users/HeroNoah/projects/5)
 
