@@ -5,7 +5,7 @@
 
 
 
-:beer: [현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
+# :beer: [현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
 
 
 
@@ -18,4 +18,4 @@
 
 
 
-:office: [현재 진행 프로젝트 Daitda](https://github.com/users/HeroNoah/projects/5)
+# :office: [현재 진행 프로젝트 Daitda](https://github.com/users/HeroNoah/projects/5)
