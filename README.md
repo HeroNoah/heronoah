@@ -6,8 +6,8 @@
 [현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
 ------------------------------
 
-### Common - [현재 진행 프로젝트](https://github.com/HeroNoah/CNT_Common)
+### Common - [CNT_Common](https://github.com/HeroNoah/CNT_Common)
 
-### Front - [현재 진행 프로젝트](https://github.com/HeroNoah/CNT_RN_JuJuClub)
+### Front - [CNT_RN_JuJuClub](https://github.com/HeroNoah/CNT_RN_JuJuClub)
 
-### Back - [현재 진행 프로젝트](https://github.com/HeroNoah/CNT_Express_JuJuClub)
+### Back - [CNT_Express_JuJuClub](https://github.com/HeroNoah/CNT_Express_JuJuClub)
