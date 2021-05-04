@@ -1,6 +1,6 @@
 # 방문해주셔서 감사합니다! 😄  
 
-## Connect Developer 박지훈  
+## :computer: Connect Developer 박지훈  
 
 
 :beer:[현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
