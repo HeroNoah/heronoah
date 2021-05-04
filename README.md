@@ -3,7 +3,7 @@
 ## Connect Developer 박지훈  
 
 
-[현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
+:beer:[현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
 ------------------------------
 
 ### Common - [CNT_Common](https://github.com/HeroNoah/CNT_Common)
