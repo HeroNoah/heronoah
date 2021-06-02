@@ -7,13 +7,15 @@
 
 ### Common - [CNT_Common](https://github.com/HeroNoah/CNT_Common)
 <br />
+---
 
 ### User APP Front - [CNT_RN_JuJuClub](https://github.com/HeroNoah/CNT_RN_JuJuClub)
 ### Store APP Front - [CNT_RN_JuJuClub_Store](https://github.com/HeroNoah/CNT_RN_JuJuClub_Store) (생성전)
 <br />
 
-### Store Web Front - [CNT_React_Store_JuJuClub](https://github.com/HeroNoah/CNT_React_Store_JuJuClub) (오피스로 변경해야함)
+### Admin Web Front - [CNT_React_Admin_JuJuClub](https://github.com/HeroNoah/CNT_React_Office_JuJuClub) 
 <br />
+---
 
 ### User_Back - [CNT_Express_User_JuJuClub](https://github.com/HeroNoah/CNT_Express_User_JuJuClub)
 ### Store_Back - [CNT_Express_Store_JuJuClub](https://github.com/HeroNoah/CNT_Express_Store_JuJuClub)
