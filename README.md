@@ -13,7 +13,7 @@
 ### Store APP Front - [CNT_RN_JuJuClub_Store](https://github.com/HeroNoah/CNT_RN_JuJuClub_Store) (생성전)
 <br />
 
-### Admin Web Front - [CNT_React_Admin_JuJuClub](https://github.com/HeroNoah/CNT_React_Office_JuJuClub) 
+### Office Web Front - [CNT_React_Office_JuJuClub](https://github.com/HeroNoah/CNT_React_Office_JuJuClub) 
 <br />
 ---
 
