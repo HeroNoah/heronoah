@@ -18,7 +18,7 @@
 ---
 
 ### User_Back - [CNT_Express_User_JuJuClub](https://github.com/HeroNoah/CNT_Express_User_JuJuClub)
-### Store_Back - [CNT_Express_Store_JuJuClub](https://github.com/HeroNoah/CNT_Express_Store_JuJuClub)
+### Store_Back - [CNT_Express_Store_JuJuClub](https://github.com/HeroNoah/CNT_Express_Store_JuJuClub) (생성전)(수정 직전의 상태까지만 저장해두는 용도)
 ### Office_Back - [CNT_Express_Office_JuJuClub](https://github.com/HeroNoah/CNT_Express_Office_JuJuClub)
 ### 결제서버 (생성전)
 ### Geo 서버 - [CNT_Express_GeoServer](https://github.com/HeroNoah/CNT_Express_GeoServer)
