@@ -11,7 +11,7 @@
 ---
 
 ### User APP Front - [CNT_RN_JuJuClub](https://github.com/HeroNoah/CNT_RN_JuJuClub) (dev.jjclub.app → user.jjclub.app)
-### Store APP Front - [CNT_RN_JuJuClub_Store](https://github.com/HeroNoah/CNT_RN_JuJuClub_Store) (생성전) (devs.jjclub.app → store.jjclub.app)
+### Store APP Front - [CNT_RN_JuJuClub_Store](https://github.com/HeroNoah/CNT_RN_JuJuClub_Store) (devs.jjclub.app → store.jjclub.app)
 <br />
 
 ### Office Web Front - [CNT_React_Office_JuJuClub](https://github.com/HeroNoah/CNT_React_Office_JuJuClub) 
