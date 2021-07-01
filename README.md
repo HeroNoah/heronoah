@@ -6,6 +6,7 @@
 # :beer: [현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
 
 ### Common - [CNT_Common](https://github.com/HeroNoah/CNT_Common)
+### DevOPS - [CNT_Common](https://github.com/HeroNoah/CNT_DevOPS)
 ### Policy - [CNT_React_Policy_JuJuClub](https://github.com/HeroNoah/CNT_React_Policy_JuJuClub)
 <br />
 ---
