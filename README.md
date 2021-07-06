@@ -3,7 +3,7 @@
 ## :computer: Connect Developer 박지훈 👨‍💻
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![HeroNoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=heronoah)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
