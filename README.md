@@ -1,7 +1,7 @@
 # 방문해주셔서 감사합니다! 😄  
 
 ## :computer: Connect Developer 박지훈 👨‍💻
-[![HeroNoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=heronoah&count_private=true)](https://github.com/HeroNoah/heronoah)
+[![HeroNoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=heronoah&count_private=true&show_icons=true)](https://github.com/HeroNoah/heronoah)
 
 
 
