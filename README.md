@@ -3,6 +3,10 @@
 ## :computer: Connect Developer 박지훈 👨‍💻
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # :beer: [현재 진행 프로젝트 JuJu Club](https://github.com/users/HeroNoah/projects/7)
 
 ### Common - [CNT_Common](https://github.com/HeroNoah/CNT_Common)
