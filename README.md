@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heronoah&layout=compact)](https://github.com/HeroNoah/heronoah)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heronoah&layout=compact)](https://github.com/HeroNoah/heronoah)
+[![heronoah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heronoah)](https://github.com/HeroNoah/heronoah)
 
 
 
