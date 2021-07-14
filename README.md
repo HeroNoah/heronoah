@@ -19,7 +19,7 @@
 ---
 
 ### User APP Front - [CNT_RN_JuJuClub](https://github.com/HeroNoah/CNT_RN_JuJuClub) (dev.jjclub.app → user.jjclub.app)
-### Store APP Front - [CNT_RN_JuJuClub_Store](https://github.com/HeroNoah/CNT_RN_JuJuClub_Store) (devs.jjclub.app → store.jjclub.app)
+### Store APP Front - [CNT_RN_Store_JuJuClub](https://github.com/HeroNoah/CNT_RN_Store_JuJuClub) (devs.jjclub.app → store.jjclub.app)
 <br />
 
 ### Store Web Front - [CNT_React_Store_JuJuClub](https://github.com/HeroNoah/CNT_React_Store_JuJuClub)
