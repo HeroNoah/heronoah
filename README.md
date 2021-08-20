@@ -35,7 +35,7 @@
 <br />
 
 ### Connection(SMS&talk) - [CNT_Express_Connection](https://github.com/HeroNoah/CNT_Express_Connection)
-### APP 상호 알림 서버
+
 ### Connection(SMS&talk) - [CNT_Express_PNs_ToUser](https://github.com/HeroNoah/CNT_Express_PNs_ToUser)
 ### Connection(SMS&talk) - [CNT_Express_PNs_ToStore](https://github.com/HeroNoah/CNT_Express_PNs_ToStore)
 <br />
