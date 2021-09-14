@@ -24,4 +24,5 @@
 <br />
 <br />
 
-# :file_cabinet: [CNT Code Test](https://github.com/users/HeroNoah/projects/8)
+# :file_cabinet: [CNT Code Test](https://github.com/HeroNoah/CNT_React_TEST)
+# :file_cabinet: [CNT Code Test Ref](https://github.com/HeroNoah/CNT_Web_TEST_Ref)
