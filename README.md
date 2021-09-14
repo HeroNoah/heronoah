@@ -21,4 +21,3 @@
 <br />
 
 # :file_cabinet: [CNT Code Test](https://github.com/HeroNoah/CNT_React_TEST)
-# :fairy: [CNT Code Test Ref](https://github.com/HeroNoah/CNT_Web_TEST_Ref)
