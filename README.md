@@ -30,7 +30,7 @@
 ### User_Back - [CNT_Express_User_JuJuClub](https://github.com/HeroNoah/CNT_Express_User_JuJuClub)
 ### Store_Back - [CNT_Express_Store_JuJuClub](https://github.com/HeroNoah/CNT_Express_Store_JuJuClub)
 ### Office_Back - [CNT_Express_Office_JuJuClub](https://github.com/HeroNoah/CNT_Express_Office_JuJuClub)
-### 결제서버 (생성전)
+### 결제서버 - [CNT_Express_Payment](https://github.com/HeroNoah/CNT_Express_Payment)
 ### Geo 서버 - [CNT_Express_GeoServer](https://github.com/HeroNoah/CNT_Express_GeoServer)
 <br />
 
