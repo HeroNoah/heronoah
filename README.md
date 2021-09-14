@@ -12,17 +12,12 @@
 # :speech_balloon: [Common Repo](https://github.com/HeroNoah/CNT_Common)
 <br />
 
----
-
 # :beer: [JuJu Club Repo](https://github.com/HeroNoah/CNT_JuJuClub)
 <br />
 
----
-
-# :office: [현재 진행 프로젝트 Daitda](https://github.com/users/HeroNoah/projects/5)
-<br />
+# :office: [Daitda 프로젝트](https://github.com/users/HeroNoah/projects/5)
 <br />
 <br />
 
 # :file_cabinet: [CNT Code Test](https://github.com/HeroNoah/CNT_React_TEST)
-# :file_cabinet: [CNT Code Test Ref](https://github.com/HeroNoah/CNT_Web_TEST_Ref)
+# :fairy: [CNT Code Test Ref](https://github.com/HeroNoah/CNT_Web_TEST_Ref)
