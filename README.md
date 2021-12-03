@@ -10,7 +10,7 @@
 ---
 <br />
 
-# :speech_balloon: [Common Repo](https://github.com/HeroNoah/Eden_Common)
+# :speech_balloon: [Eden Financial Common Repo](https://github.com/HeroNoah/Eden_Common)
 <br />
 
 # :beer: [Eden_Repo](https://github.com/HeroNoah/Eden_Edenden)
