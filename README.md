@@ -10,14 +10,8 @@
 ---
 <br />
 
-# :speech_balloon: [Common Repo](https://github.com/HeroNoah/CNT_Common)
+# :speech_balloon: [Common Repo](https://github.com/HeroNoah/Eden_Common)
 <br />
 
-# :beer: [JuJu Club Repo](https://github.com/HeroNoah/CNT_JuJuClub)
+# :beer: [Eden_Repo](https://github.com/HeroNoah/Eden_Edenden)
 <br />
-
-# :office: [Daitda 프로젝트](https://github.com/users/HeroNoah/projects/5)
-<br />
-<br />
-
-# :file_cabinet: [CNT Code Test](https://github.com/HeroNoah/CNT_React_TEST)
