@@ -14,6 +14,9 @@
 ### Edenden_Common - [Edenden_Common](https://github.com/HeroNoah/Edenden_Common)
 <br />
 
+### Edenden_DevOps - [Edenden_DevOps](https://github.com/HeroNoah/Edenden_DevOps)
+<br />
+
 ### User Web Front - [Eden_React_User_Edenden](https://github.com/HeroNoah/Eden_React_User_Edenden)
 ### Staff Web Front - [Eden_React_Staff_Edenden](https://github.com/HeroNoah/Eden_React_Staff_Edenden)
 ### Admin Web Front - [Eden_React_Admin_Edenden](https://github.com/HeroNoah/Eden_React_Admin_Edenden) 
