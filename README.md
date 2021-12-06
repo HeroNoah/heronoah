@@ -11,10 +11,10 @@
 # :beer: [이든파이넨셜 Edenden 프로젝트](https://github.com/users/HeroNoah/projects/16)
 <br />
 
-### Edenden_Common - [Edenden_Common](https://github.com/HeroNoah/Edenden_Common)
+### Eden_Common - [Eden_Common](https://github.com/HeroNoah/Eden_Common)
 <br />
 
-### Edenden_DevOps - [Edenden_DevOps](https://github.com/HeroNoah/Edenden_DevOps)
+### Eden_DevOps - [Eden_DevOps](https://github.com/HeroNoah/Eden_DevOps)
 <br />
 
 ### User Web Front - [Eden_React_User_Edenden](https://github.com/HeroNoah/Eden_React_User_Edenden)
