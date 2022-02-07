@@ -18,7 +18,7 @@
 <br />
 
 ### User Web Front - [Eden_React_User_Edenden](https://github.com/HeroNoah/Eden_React_User_Edenden)
-### Staff Web Front - [Eden_React_Staff_Edenden](https://github.com/HeroNoah/Eden_React_Staff_Edenden)
+### CS Web Front - [Eden_React_CS_Edenden](https://github.com/HeroNoah/Eden_React_CS_Edenden)
 ### Admin Web Front - [Eden_React_Admin_Edenden](https://github.com/HeroNoah/Eden_React_Admin_Edenden) 
 <br />
 
@@ -29,7 +29,7 @@
 <br />
 
 ### User_Back - [Eden_Express_User_Edenden](https://github.com/HeroNoah/Eden_Express_User_Edenden)
-### Staff_Back - [Eden_Express_Staff_Edenden](https://github.com/HeroNoah/Eden_Express_Staff_Edenden)
+### CS_Back - [Eden_Express_CS_Edenden](https://github.com/HeroNoah/Eden_Express_CS_Edenden)
 ### Admin_Back - [Eden_Express_Admin_Edenden](https://github.com/HeroNoah/Eden_Express_Admin_Edenden)
 <br />
 
