@@ -2,8 +2,16 @@
 
 ## :computer: DevOps Developer 박지훈 👨‍💻
 
-광주광역시에서 인공지능업체 [로거]Log-er 를 운영중이며  
-Full Stack Developer가 되기위해 평생 공부를 하고 있는 개발자 입니다.
+광주광역시에서 인공지능업체 [로거]Log-er 를 운영중이며
+Full Stack Developer가 되기위해 평생 공부를 하고 있는 <b style={{color=blue}}>Generalist</b>입니다.
+
+<span style="color:red">붉은 색</span>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 
 현재는 DevOPS에 빠져 있어 Kubernetes 와 CI/CD 가 최대 관심사 입니다.  
 Professional Engineer of Information Management 도 따야 해요!
