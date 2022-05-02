@@ -3,8 +3,9 @@
 ## :computer: DevOps Developer 박지훈 👨‍💻
 
 광주광역시에서 인공지능업체 <b>[로거]Log-er</b> 를 운영중이며  
-<b>Full Stack Developer</b>가 되기위해 평생 공부를 하고 있는 <b>Generalist</b> 입니다.
+<b>[이든파이낸셜]</b>의 개발을 리드 하고 있습니다.
 
+<b>Full Stack Developer</b>가 되기위해 평생 공부를 하고 있는 <b>Generalist</b> 입니다.
 
 현재는 DevOPS 가 재미있으며, CI/CD 및 Kubernetes 가 최대 관심사 입니다.  
 
