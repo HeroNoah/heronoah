@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20HeroNoah%20&fontSize=30&rotate=19&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=어서오세요%20HeroNoah%20의%20GitHub입니다&fontSize=25&fontColor=ffffff&rotate=19&fontAlign=70&fontAlignY=45)
 
 # 방문해주셔서 감사합니다! 😄  
 
