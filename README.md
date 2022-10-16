@@ -9,7 +9,7 @@
 
 현재는 DevOPS 가 재미있으며, CI/CD 및 Kubernetes 가 최대 관심사 입니다.  
 
-Professional Engineer of Information Management 를 목표로 하고있으며  
+Professional Engineer of Information Management (정보관리기술사)를 목표로 하고있으며  
 팀에서 인정받는 Senior 가 되기위해 & 멋진 아빠가 되기위해 항상 공부를 합니다.  
 공부를 멈출 수 없어요!
 
