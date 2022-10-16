@@ -18,3 +18,5 @@ Professional Engineer of Information Management (정보관리기술사)를 목�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heronoah&layout=compact&count_private=true&show_icons=true)](https://github.com/HeroNoah/heronoah)
 
 <br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheronoah%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=uikit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
