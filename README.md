@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20HeroNoah%20&fontSize=30&rotate=19&fontAlign=70&fontAlignY=40)
+
 # 방문해주셔서 감사합니다! 😄  
 
 ## :computer: DevOps Developer 박지훈 👨‍💻
@@ -20,3 +22,5 @@ Professional Engineer of Information Management (정보관리기술사)를 목�
 <br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheronoah%2Fhit-counter&count_bg=%234519A0&title_bg=%23E1CCCC&icon=uikit.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
