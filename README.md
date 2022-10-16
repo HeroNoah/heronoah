@@ -21,6 +21,19 @@ Professional Engineer of Information Management (정보관리기술사)를 목�
 
 <br />
 
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&&logo=Flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&&logo=Tailwind CSS&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat&&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&&logo=Kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&&logo=MongoDB&logoColor=white"/>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheronoah%2Fhit-counter&count_bg=%234519A0&title_bg=%23E1CCCC&icon=uikit.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
