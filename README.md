@@ -6,7 +6,7 @@
 ## :computer: DevOps Developer 박지훈 👨‍💻
 
 광주광역시에서 인공지능업체 <b>[로거]Log-er</b> 를 운영중이며  
-멋진 FinTech <b>[이든파이낸셜]</b>의 개발을 리드 하고 있습니다.
+멋진 헬스케어 기업인 <b>[L&H Labs]</b>의 개발을 리드 하고 있습니다.
 
 <b>Full Stack Developer</b>가 되기위해 평생 공부를 하고 있는 <b>Generalist</b> 입니다.
 
